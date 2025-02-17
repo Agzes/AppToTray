@@ -12,7 +12,7 @@
 1. Launch Visual Studio.
 2. On the home screen, select **Create a new project**.
 3. In the **Create a Project** window, select **An empty C++ project**.
-4. Enter the name of the project (for example, `AntiAFK`) and select a location to save it. Click **Create**.
+4. Enter the name of the project (for example, `ATT`) and select a location to save it. Click **Create**.
 5. In the next window, you can leave the default settings and click **Create**.
 
 ## Step 3: Copy the code from the main repository file
