@@ -1,4 +1,4 @@
-# How do I compile a C++ application in Visual Studio?
+# How do I compile a C++ application in Visual Studio? 
 
 ## Step 1: Download and install Visual Studio
 
