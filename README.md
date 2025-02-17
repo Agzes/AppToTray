@@ -1,8 +1,14 @@
 <h6 align="center">🖼️ image design for this repository ReadME is in development 🛠️</h6>
 <br><br>
 
-<h1 align="center">AppToTray</h1>
-<h3 align="center">A program to hide window to tray.</h3>
+<h1 align="center">
+
+AppToTray</h1>
+<h3 align="center">A program to hide window to tray.
+<br><br>
+
+![image](https://github.com/user-attachments/assets/60b16d10-ef87-4bd7-b27e-5c0d4cc4bd5d)
+</h3>
 
 <br><br>
 
