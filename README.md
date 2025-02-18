@@ -34,6 +34,7 @@ AppToTray</h1>
 ### 📝 Information ⤵
 📂 Saving hotkey settings in regedit: `HKEY_CURRENT_USER\Software\Agzes\AppToTray` \
 ⚠️ Warning: if window don`t hide, run program as administrator
+🛟 After you Exit AppToTray, AppToTray unhide all windows
 
 <br><br>
 
